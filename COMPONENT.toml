@@ -3,7 +3,7 @@ name = "SigmaOS-systemd-notifications"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "systemd-notifications component"
+description = "systemd notifications"
 upstream = []
 
 [contract]
